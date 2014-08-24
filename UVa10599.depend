@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1408369325 source:c:\users\user\desktop\uva10599\problem10599.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
